@@ -1,0 +1,35 @@
+{
+  "_from": "bender-consul-brain",
+  "_id": "bender-consul-brain@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-/TayngcDJ23P+6GqDVuYc+iN+zg=",
+  "_location": "/bender-consul-brain",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "bender-consul-brain",
+    "name": "bender-consul-brain",
+    "escapedName": "bender-consul-brain",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/bender-consul-brain/-/bender-consul-brain-0.0.1.tgz",
+  "_shasum": "fd36b29e0703276dcffba1aa0d5b9873e88dfb38",
+  "_spec": "bender-consul-brain",
+  "_where": "/private/tmp",
+  "bundleDependencies": false,
+  "dependencies": {
+    "consul": "^0.20.0"
+  },
+  "deprecated": false,
+  "description": "This hubot script allows Bender to store the bot information in Consul KV store.",
+  "main": "consul-brain.js",
+  "name": "bender-consul-brain",
+  "version": "0.0.1"
+}
